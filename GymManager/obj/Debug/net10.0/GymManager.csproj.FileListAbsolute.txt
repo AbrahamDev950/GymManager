@@ -1,0 +1,14 @@
+/home/abraham/Documentos/GymManager/GymManager/GymManager/bin/Debug/net10.0/GymManager
+/home/abraham/Documentos/GymManager/GymManager/GymManager/bin/Debug/net10.0/GymManager.deps.json
+/home/abraham/Documentos/GymManager/GymManager/GymManager/bin/Debug/net10.0/GymManager.runtimeconfig.json
+/home/abraham/Documentos/GymManager/GymManager/GymManager/bin/Debug/net10.0/GymManager.dll
+/home/abraham/Documentos/GymManager/GymManager/GymManager/bin/Debug/net10.0/GymManager.pdb
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.AssemblyInfoInputs.cache
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.AssemblyInfo.cs
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.csproj.CoreCompileInputs.cache
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.dll
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/refint/GymManager.dll
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.pdb
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/GymManager.genruntimeconfig.cache
+/home/abraham/Documentos/GymManager/GymManager/GymManager/obj/Debug/net10.0/ref/GymManager.dll
